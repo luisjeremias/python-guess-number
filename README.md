@@ -2,7 +2,7 @@
 
 This is a simple python project, It's a guess number, i make to pratice my broke python.
 
-[![Preview](https://github.com/luisjeremias/python-guess-number/blob/master/Capture.JPG?raw=true)
+![Preview](https://github.com/luisjeremias/python-guess-number/blob/master/Capture.JPG?raw=true)
 
 ## How to install?
 
